@@ -27,12 +27,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "KingBot-Md" //namabot kalian
+global.ownername= LansGemgeh" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "https://youtube.com/@LansDev" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/" //bebas
+global.email = "lans@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
